@@ -2,7 +2,7 @@
 /*
 Plugin Name: Plugin Manager API
 Description: Create custom API
-Version: 1.0
+Version: 1.1
 Author: Ablue-Dev
 GitHub Plugin URI: https://github.com/Silvery86/Custom_order_api_plugin
 GitHub Branch: main
